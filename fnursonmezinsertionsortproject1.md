@@ -1,5 +1,6 @@
 # Insertion Sort Projesi
  [Patika.dev](https://www.patika.dev/tr) 
+ 
 *1-)*
 - [2,27,16,22,18,6]
 - [2,6,16,22,18,27]
