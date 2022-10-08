@@ -1,4 +1,4 @@
-#Insertion Sort Projesi
+# Insertion Sort Projesi
 
 *1-)*
 - [2,27,16,22,18,6]
@@ -14,6 +14,7 @@
 - Best Case : Dizinin sıralı olması yani aradığımız sayının en başta olması
 
 *4-)* Dizi sıralandıktan sonra 18 sayısı dizinin ortasında olacağından *Average Case* kapsamında olur.
+
 --------
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort' a göre ilk 4 adımı;
 - [2,3,5,8,7,9,4,15,6]
